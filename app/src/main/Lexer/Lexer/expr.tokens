@@ -1,0 +1,14 @@
+T__0=1
+ID=2
+WS=3
+ADD=4
+MINUS=5
+MUL=6
+DIV=7
+INT=8
+FLOAT=9
+'hello'=1
+'+'=4
+'-'=5
+'*'=6
+'/'=7
